@@ -12,8 +12,21 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 
-Add code Here
+```python
+
+def result(a,b):
+    res=a%b
+    print(res)
+x=int(input())
+y=int(input())
+result(x,y)
+
+```
 
 ## Output
 
+![image](https://github.com/user-attachments/assets/ee358850-e53f-46a2-9686-dda3c20ac8f7)
+
 ## Result
+
+Thus implemented the python program to compute the module operation of two values in a user-defined-function.
